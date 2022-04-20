@@ -10,4 +10,5 @@ My Discord is `MenuGamer#1337`
     
 ### Discord Bot
     I have created a Discord bot, though I'm not gonna share the code nor am I sharing the bot atm, since it's under development.
-    Once I have gotten the bot into the state that I'm safely comfortable publishing it out into the world, I will post a link here where you can get your hands on the bot.
+    Once I have gotten the bot into the state that I'm safely comfortable publishing it out into the world,
+    I will post a link here where you can get your hands on the bot.
