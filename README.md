@@ -1,7 +1,6 @@
 # About me
 I’m 20y Male. I'm currently working on Several API's. I'm going to publish the work here once I'm finished with some of my projects. I'm interested in reverse engineering and making applications and data connections more secure, though I don't have that much experience in these fields, if someone is willing to give me a hand, I'll gladly take it.
-The best bet how to reach me would be through Discord.
-My Discord is `MenuGamer#1337`
+The best bet how to reach me would be through Discord `MenuGamer#1337`.
 
 ## - Projects
 
